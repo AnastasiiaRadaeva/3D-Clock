@@ -4,7 +4,7 @@
 </p>
 
 ## About
-3D clock with animated clock arms that shows the time. Project by [Catlike Coding's tutorial](https://catlikecoding.com/unity/tutorials/basics/game-objects-and-scripts/).
+3D clock with animated clock arms that shows the current time. Project by [Catlike Coding's tutorial](https://catlikecoding.com/unity/tutorials/basics/game-objects-and-scripts/).
 
 ## Screenshots
 <p float="left">
