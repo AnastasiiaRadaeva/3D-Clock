@@ -7,14 +7,10 @@
 3D clock with animated clock arms that shows the time. Project by [Catlike Coding's tutorial](https://catlikecoding.com/unity/tutorials/basics/game-objects-and-scripts/).
 
 ## Screenshots
-<table>
-    <tr>
-            <img src="ReadmeAssets/ClockScreenshot.png" alt="Screenshot">
-    </tr>
-    <tr>
-            <img src="ReadmeAssets/ClockGIF.gif" alt="Gif">
-    </tr>
-</table>
+<p float="left">
+  <img src="ReadmeAssets/ClockScreenshot.png" width="300" />
+  <img src="ReadmeAssets/ClockGIF.gif" width="286" />
+</p>
 
 ## Developers
 🙋‍♀️ [Anastasiia Radaeva](https://github.com/AnastasiiaRadaeva)
