@@ -9,7 +9,10 @@
 ## Screenshots
 <table>
     <tr>
-            <img src="ReadmeAssets/ClockGIF.gif" alt="Main Menu">
+            <img src="ReadmeAssets/ClockScreenshot.png" alt="Screenshot">
+    </tr>
+    <tr>
+            <img src="ReadmeAssets/ClockGIF.gif" alt="Gif">
     </tr>
 </table>
 
