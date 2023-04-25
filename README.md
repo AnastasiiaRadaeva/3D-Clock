@@ -8,8 +8,8 @@
 
 ## Screenshots
 <p float="left">
-  <img src="ReadmeAssets/ClockScreenshot.png" width="300" />
-  <img src="ReadmeAssets/ClockGIF.gif" width="286" />
+  <img src="ReadmeAssets/ClockScreenshot.png" width="350" />
+  <img src="ReadmeAssets/ClockGif.gif" width="350" />
 </p>
 
 ## Developers
