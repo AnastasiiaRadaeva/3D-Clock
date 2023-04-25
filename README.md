@@ -21,5 +21,3 @@
 
 ## Developers
 🙋‍♀️ [Anastasiia Radaeva](https://github.com/AnastasiiaRadaeva)
-## Licence
-[MIT License](LICENSE)
